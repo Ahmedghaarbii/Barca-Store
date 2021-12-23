@@ -1,0 +1,26 @@
+#icon-close {
+  float: right;
+  position: relative;
+  top: -0.5rem;
+}
+
+#icon-add {
+  float: right;
+  position: relative;
+}
+
+#dialog-content {
+  display: flex;
+  width: 100%;
+  height: 100%;
+}
+
+#dialog-img {
+  height: 620px;
+  width: 660px;
+}
+
+#dialog-price-span {
+  color: #fb3640;
+  padding-right: 15px;
+}
